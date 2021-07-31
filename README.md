@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
-ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
 
 ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 
