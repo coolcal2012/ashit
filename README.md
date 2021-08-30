@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,& Pictures
+#EXTINF:-1 group-title="BANGLA",& Pictures
 http://watchindia.net:8880/live/33253/72963/818.m3u8
 #EXTINF:-1,& Pictures HD
 http://watchindia.net:8880/live/33253/72963/783.m3u8
