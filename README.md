@@ -1,141 +1,141 @@
 #EXTM3U
-#EXTINF:-1 group-title="BANGLA",& Pictures
+#EXTINF:-1 group-title="Tatasky",& Pictures
 http://watchindia.net:8880/live/33253/72963/818.m3u8
-#EXTINF:-1,& Pictures HD
+#EXTINF:-1 group-title="Tatasky",& Pictures HD
 http://watchindia.net:8880/live/33253/72963/783.m3u8
-#EXTINF:-1,& TV HD
+#EXTINF:-1 group-title="Tatasky",& TV HD
 http://watchindia.net:8880/live/33253/72963/782.m3u8
-#EXTINF:-1,& Flix HD
+#EXTINF:-1 group-title="Tatasky",& Flix HD
 http://watchindia.net:8880/live/33253/72963/2088.m3u8
-#EXTINF:-1,&xplor HD
+#EXTINF:-1 group-title="Tatasky",&xplor HD
 http://watchindia.net:8880/live/33253/72963/2204.m3u8
-#EXTINF:-1,Sony BBC Earth HD
+#EXTINF:-1 group-title="Tatasky",Sony BBC Earth HD
 http://watchindia.net:8880/live/33253/72963/789.m3u8
-#EXTINF:-1,Sony TV HD
+#EXTINF:-1 group-title="Tatasky",Sony TV HD
 http://watchindia.net:8880/live/33253/72963/1969.m3u8
-#EXTINF:-1,Sony TV HD 2
+#EXTINF:-1 group-title="Tatasky",Sony TV HD 2
 http://watchindia.net:8880/live/33253/72963/2141.m3u8
-#EXTINF:-1,Sony TV HD UK
+#EXTINF:-1 group-title="Tatasky",Sony TV HD UK
 http://watchindia.net:8880/live/33253/72963/2117.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1 group-title="Tatasky",Sony Max HD
 http://watchindia.net:8880/live/33253/72963/788.m3u8
-#EXTINF:-1,Sony Max 2
+#EXTINF:-1 group-title="Tatasky",Sony Max 2
 http://watchindia.net:8880/live/33253/72963/2024.m3u8
-#EXTINF:-1,Sony Pal
+#EXTINF:-1 group-title="Tatasky",Sony Pal
 http://watchindia.net:8880/live/33253/72963/812.m3u8
-#EXTINF:-1,Sony Sab HD
+#EXTINF:-1 group-title="Tatasky",Sony Sab HD
 http://watchindia.net:8880/live/33253/72963/781.m3u8
-#EXTINF:-1,Sony Sab UK
+#EXTINF:-1 group-title="Tatasky",Sony Sab UK
 http://watchindia.net:8880/live/33253/72963/2189.m3u8
-#EXTINF:-1,Star Bharat HD
+#EXTINF:-1 group-title="Tatasky",Star Bharat HD
 http://watchindia.net:8880/live/33253/72963/780.m3u8
-#EXTINF:-1,Star Plus HD
+#EXTINF:-1 group-title="Tatasky",Star Plus HD
 http://watchindia.net:8880/live/33253/72963/1924.m3u8
-#EXTINF:-1,Star Gold India HD
+#EXTINF:-1 group-title="Tatasky",Star Gold India HD
 http://watchindia.net:8880/live/33253/72963/785.m3u8
-#EXTINF:-1,Star Gold Select HD
+#EXTINF:-1 group-title="Tatasky",Star Gold Select HD
 http://watchindia.net:8880/live/33253/72963/784.m3u8
-#EXTINF:-1,Star Movies HD
+#EXTINF:-1 group-title="Tatasky",Star Movies HD
 http://watchindia.net:8880/live/33253/72963/2080.m3u8
-#EXTINF:-1,Star World HD
+#EXTINF:-1 group-title="Tatasky",Star World HD
 http://watchindia.net:8880/live/33253/72963/2191.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="Tatasky",HBO
 http://watchindia.net:8880/live/33253/72963/2081.m3u8
-#EXTINF:-1,Zee TV HD
+#EXTINF:-1 group-title="Tatasky",Zee TV HD
 http://watchindia.net:8880/live/33253/72963/1970.m3u8
-#EXTINF:-1,Zee TV HD USA
+#EXTINF:-1 group-title="Tatasky",Zee TV HD USA
 http://watchindia.net:8880/live/33253/72963/1971.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Tatasky",Zee Action
 http://watchindia.net:8880/live/33253/72963/821.m3u8
-#EXTINF:-1,Zee Anmol
+#EXTINF:-1 group-title="Tatasky",Zee Anmol
 http://watchindia.net:8880/live/33253/72963/813.m3u8
-#EXTINF:-1,Zee Anmol Cinema
+#EXTINF:-1 group-title="Tatasky",Zee Anmol Cinema
 http://watchindia.net:8880/live/33253/72963/820.m3u8
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="Tatasky",Zee Bollywood
 http://watchindia.net:8880/live/33253/72963/822.m3u8
-#EXTINF:-1,Zee Cinema HD
+#EXTINF:-1 group-title="Tatasky",Zee Cinema HD
 http://watchindia.net:8880/live/33253/72963/787.m3u8
-#EXTINF:-1,Zee Classic
+#EXTINF:-1 group-title="Tatasky",Zee Classic
 http://watchindia.net:8880/live/33253/72963/802.m3u8
-#EXTINF:-1,Zee News
+#EXTINF:-1 group-title="Tatasky",Zee News
 http://watchindia.net:8880/live/33253/72963/832.m3u8
-#EXTINF:-1,Zee World
+#EXTINF:-1 group-title="Tatasky",Zee World
 http://watchindia.net:8880/live/33253/72963/806.m3u8
-#EXTINF:-1,Zoom
+#EXTINF:-1 group-title="Tatasky",Zoom
 http://watchindia.net:8880/live/33253/72963/842.m3u8
-#EXTINF:-1,Star Maa HD 1
+#EXTINF:-1 group-title="Tatasky",Star Maa HD 1
 http://watchindia.net:8880/live/33253/72963/933.m3u8
-#EXTINF:-1,Star Maa HD 2
+#EXTINF:-1 group-title="Tatasky",Star Maa HD 2
 http://watchindia.net:8880/live/33253/72963/2168.m3u8
-#EXTINF:-1,Star Maa Movies HD
+#EXTINF:-1 group-title="Tatasky",Star Maa Movies HD
 http://watchindia.net:8880/live/33253/72963/934.m3u8
-#EXTINF:-1,Star Maa Gold HD
+#EXTINF:-1 group-title="Tatasky",Star Maa Gold HD
 http://watchindia.net:8880/live/33253/72963/935.m3u8
-#EXTINF:-1,10 TV
+#EXTINF:-1 group-title="Tatasky",10 TV
 http://watchindia.net:8880/live/33253/72963/981.m3u8
-#EXTINF:-1,92 News
+#EXTINF:-1 group-title="Tatasky",92 News
 http://watchindia.net:8880/live/33253/72963/1060.m3u8
-#EXTINF:-1,92 News UK
+#EXTINF:-1 group-title="Tatasky",92 News UK
 http://watchindia.net:8880/live/33253/72963/1050.m3u8
-#EXTINF:-1,9X Jalwa
+#EXTINF:-1 group-title="Tatasky",9X Jalwa
 http://watchindia.net:8880/live/33253/72963/828.m3u8
-#EXTINF:-1,9X Jhakaas
+#EXTINF:-1 group-title="Tatasky",9X Jhakaas
 http://watchindia.net:8880/live/33253/72963/926.m3u8
-#EXTINF:-1,9XM Music
+#EXTINF:-1 group-title="Tatasky",9XM Music
 http://watchindia.net:8880/live/33253/72963/827.m3u8
-#EXTINF:-1,A Plus
+#EXTINF:-1 group-title="Tatasky",A Plus
 http://watchindia.net:8880/live/33253/72963/1021.m3u8
-#EXTINF:-1,Aaj News
+#EXTINF:-1 group-title="Tatasky",Aaj News
 http://watchindia.net:8880/live/33253/72963/1051.m3u8
-#EXTINF:-1,Dilli Aaj Tak
+#EXTINF:-1 group-title="Tatasky",Dilli Aaj Tak
 http://watchindia.net:8880/live/33253/72963/836.m3u8
-#EXTINF:-1,Aaj Tak HD
+#EXTINF:-1 group-title="Tatasky",Aaj Tak HD
 http://watchindia.net:8880/live/33253/72963/807.m3u8
-#EXTINF:-1,Abbtakk News
+#EXTINF:-1 group-title="Tatasky",Abbtakk News
 http://watchindia.net:8880/live/33253/72963/1062.m3u8
-#EXTINF:-1,ABN News
+#EXTINF:-1 group-title="Tatasky",ABN News
 http://watchindia.net:8880/live/33253/72963/980.m3u8
-#EXTINF:-1,ABP Majha
+#EXTINF:-1 group-title="Tatasky",ABP Majha
 http://watchindia.net:8880/live/33253/72963/925.m3u8
-#EXTINF:-1,ABP News
+#EXTINF:-1 group-title="Tatasky",ABP News
 http://watchindia.net:8880/live/33253/72963/833.m3u8
-#EXTINF:-1,Star Vijay HD
+#EXTINF:-1 group-title="Tatasky",Star Vijay HD
 http://watchindia.net:8880/live/33253/72963/846.m3u8
-#EXTINF:-1,Star Vijay HD 2
+#EXTINF:-1 group-title="Tatasky",Star Vijay HD 2
 http://watchindia.net:8880/live/33253/72963/2140.m3u8
-#EXTINF:-1,Star Vijay Super
+#EXTINF:-1 group-title="Tatasky",Star Vijay Super
 http://watchindia.net:8880/live/33253/72963/2190.m3u8
-#EXTINF:-1,Sun TV HD
+#EXTINF:-1 group-title="Tatasky",Sun TV HD
 http://watchindia.net:8880/live/33253/72963/843.m3u8
-#EXTINF:-1,Sun TV HD USA
+#EXTINF:-1 group-title="Tatasky",Sun TV HD USA
 http://watchindia.net:8880/live/33253/72963/2089.m3u8
-#EXTINF:-1,Sun Life
+#EXTINF:-1 group-title="Tatasky",Sun Life
 http://watchindia.net:8880/live/33253/72963/847.m3u8
-#EXTINF:-1,Sun Music HD
+#EXTINF:-1 group-title="Tatasky",Sun Music HD
 http://watchindia.net:8880/live/33253/72963/844.m3u8
-#EXTINF:-1,Sun News
+#EXTINF:-1 group-title="Tatasky",Sun News
 http://watchindia.net:8880/live/33253/72963/869.m3u8
-#EXTINF:-1,Sirippoli TV
+#EXTINF:-1 group-title="Tatasky",Sirippoli TV
 http://watchindia.net:8880/live/33253/72963/2084.m3u8
-#EXTINF:-1,Adithya TV
+#EXTINF:-1 group-title="Tatasky",Adithya TV
 http://watchindia.net:8880/live/33253/72963/855.m3u8
-#EXTINF:-1,Angel TV HD
+#EXTINF:-1 ,Angel TV HD
 http://watchindia.net:8880/live/33253/72963/862.m3u8
-#EXTINF:-1,App News
+#EXTINF:-1 group-title="Tatasky",App News
 http://watchindia.net:8880/live/33253/72963/1058.m3u8
-#EXTINF:-1,Aruj Tv
+#EXTINF:-1 group-title="Tatasky",Aruj Tv
 http://watchindia.net:8880/live/33253/72963/1035.m3u8
-#EXTINF:-1,Ary Digital
+#EXTINF:-1 group-title="Tatasky",Ary Digital
 http://watchindia.net:8880/live/33253/72963/1018.m3u8
-#EXTINF:-1,Ary News
+#EXTINF:-1 group-title="Tatasky",Ary News
 http://watchindia.net:8880/live/33253/72963/1042.m3u8
-#EXTINF:-1,Ary World UK
+#EXTINF:-1 group-title="Tatasky",Ary World UK
 http://watchindia.net:8880/live/33253/72963/1041.m3u8
-#EXTINF:-1,Ary Zauk
+#EXTINF:-1 group-title="Tatasky",Ary Zauk
 http://watchindia.net:8880/live/33253/72963/1026.m3u8
-#EXTINF:-1,Ary Zindagi
+#EXTINF:-1 group-title="Tatasky",Ary Zindagi
 http://watchindia.net:8880/live/33253/72963/1025.m3u8
-#EXTINF:-1,Asianet HD 1
+#EXTINF:-1 group-title="Tatasky",Asianet HD 1
 http://watchindia.net:8880/live/33253/72963/276.m3u8
 #EXTINF:-1,Asianet HD 2
 http://watchindia.net:8880/live/33253/72963/2216.m3u8
