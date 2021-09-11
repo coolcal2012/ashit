@@ -1,8 +1,6 @@
 
 #EXTM3U
 
-News
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="News",ATN News
 http://babutv.aliflailabd.com:8989/atn-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" group-title="News",Channel 24
@@ -21,10 +19,6 @@ http://babutv.aliflailabd.com:8989/news24-hd/index.m3u8
 http://babutv.aliflailabd.com:8989/somoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="News",BBC World News
 http://babutv.aliflailabd.com:8989/bbc-world/index.m3u8
-
-
-Bangladeshi
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png " group-title="Bangladeshi",ATN Bangla
 http://babutv.aliflailabd.com:8989/atn-bangla/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg " group-title="Bangladeshi",Bangla TV
