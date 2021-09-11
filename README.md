@@ -109,14 +109,10 @@ http://babutv.aliflailabd.com:8989/beinsport3/index.m3u8
 http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",Sony Six
 http://babutv.aliflailabd.com:8989/sony-six-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/851-8512020_golf-hd-png-sony-ten-golf-hd-logo.png" group-title="Sports",Sony Ten Golf
-http://babutv.aliflailabd.com:8989/sony-ten-golf-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",Sony Ten 1
 http://babutv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="Sports",Sony Ten 2
 http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Star_Sports_First.jpg/revision/latest?cb=20190725055820" group-title="Sports",Start Sports First
-http://babutv.aliflailabd.com:8989/star-sports-first/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",Star Sports Select 1
 http://babutv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",Star Sports Select 2
