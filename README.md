@@ -1,21 +1,14 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALJAZEERA TV ARABIC
-https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8
+
 #EXTINF:0 tvg-id="set" group-title="Channels",SONY ENTERTAINMENT HD
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="Channels",SONY MAX HD
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="Channels",SONY PIX HD
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HUM HD
-https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
-#EXTINF:0 tvg-id="HUMMasala.uk" group-title="Channels",HUM MASALA
-https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
 #EXTINF:0 tvg-id="SabTV.uk" group-title="Channels",SAB TV
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GEM TV
-https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
 #EXTINF:0 tvg-id="zee" group-title="Channels",ZEE TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Channels",ZEE CINEMA
@@ -42,18 +35,12 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
 #EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC EARTH HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DA-VINCCI KIDS
-https://feed.play.mv/live/1009/V5eGkRT3A1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KBS WORLD HD
-https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
 #EXTINF:0 tvg-id="fashion" group-title="Channels",FASHION TV HD
 https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8
 #EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN HD
 https://feed.play.mv/live/10005200/lyQmMBq377/master.m3u8
 #EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
-#EXTINF:0 tvg-id="paramount" group-title="Channels",PARAMOUNT CHANNEL HD
-https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MARVEL HQ
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DISNEP JUNIOR
@@ -126,37 +113,3 @@ https://feed.play.mv/live/1009/hz4T0QT8JX/master.m3u8
 https://feed.play.mv/live/10005200/IAI4C6IMW6/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ICONCEPT HD
 https://feed.play.mv/live/10005200/457FMV9rEm/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CMUSIC HD
-https://feed.play.mv/live/10005200/GXE8736IT9/master.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV HD
-https://feed.play.mv/live/10005200/FuWgLo9sCi/1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SAUDI QURAN
-https://feed.play.mv/live/1009/Wz80eJ0B7o/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SAUDI  2
-https://feed.play.mv/live/1009/Fnyy4wl9fn/master.m3u8
-#EXTINF:0 tvg-id="Saudi.il" group-title="Channels",SAUDI
-https://feed.play.mv/live/1009/gKb5lFwWql/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FIX-FOXI
-https://feed.play.mv/live/1009/5drgr6d9GQ/master.m3u8
-#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5MONDE
-https://feed.play.mv/live/1009/ffhFUWPv6j/master.m3u8
-#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",LIFE TIME
-https://feed.play.mv/live/10005200/q1QsHkGgzx/master.m3u8
-#EXTINF:0 tvg-id="TimesNow.uk" group-title="Channels",TIMES NOW
-https://feed.play.mv/live/1009/4z9ybhTVhq/master.m3u8
-#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Channels",TRT WORLD
-https://feed.play.mv/live/1009/BE4X3XljAd/master.m3u8
-#EXTINF:0 tvg-id="france24" group-title="Channels",FRANCE 24
-https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HIGHLIGHT
-https://feed.play.mv/live/1009/RNWKSRSXUP/master.m3u8
-#EXTINF:0 tvg-id="english-club" group-title="Channels",ENGLISH CLUB
-https://feed.play.mv/live/1009/ZR0CH36G6X/master.m3u8
-#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Channels",BABY FIRST
-https://feed.play.mv/live/1009/9J8wEl5SId/master.m3u8
-#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
-https://feed.play.mv/live/1009/QeaHKk2Z7w/master.m3u8
-#EXTINF:0 tvg-id="StyleNetwork.pt" group-title="Channels",STYLE
-https://feed.play.mv/live/1009/QX4NI7GVOA/master.m3u8
-#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",FOOD NETWORK HD
-https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
