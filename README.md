@@ -47,3 +47,5 @@ http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="BDC-BDIX", Zee TV HD [5]
 http://jupiter.bdcabletv.com/ENC-9/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BDC-BDIX", Zee Cinema HD [5] 
+http://jupiter.bdcabletv.com/ZeeCinemaHD/video.m3u8
